@@ -1,0 +1,34 @@
+﻿[
+  {
+    "Genre": "Homme",
+    "Paysdenaissance": "France",
+    "Email": "homme@gmail.com",
+    "Nom": "Antoine",
+    "Phone": "0767642079",
+    "Address": {
+      "num": 129,
+      "nomRue": "avenue fabien",
+      "codePostal": 94700
+    },
+    "Message": "Formulaire de contact ",
+    "product": "Voiture",
+    "Loisir": "Sport"
+  },
+  {
+    "Genre": "Femme",
+    "Paysdenaissance": "Espagne",
+    "Email": "Femme@gmail.com",
+    "Nom": "Anna",
+    "Phone": "0767642079",
+    "Address": {
+      "num": 120,
+      "nomRue": "boulevard maxim Gorki",
+      "codePostal": 94800
+    },
+      "Message": "Formulaire de contac ",
+      "product": "Voiture",
+      "Loisir": "Sport"
+  }
+]
+  
+ 
